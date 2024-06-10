@@ -19,6 +19,9 @@ The interface has a basic design that minimizes clutter and disruptions, making 
 
 
 ![image](https://github.com/Lizzierc/Weather-Forecast/assets/164861140/9c7da5f7-fb54-4d42-9b3f-6e6659b006c3)
+![image](https://github.com/Lizzierc/Weather-Forecast/assets/164861140/6f34617d-487e-4c60-8373-1f1965553387)
+![image](https://github.com/Lizzierc/Weather-Forecast/assets/164861140/0bdf884b-6730-4d6b-b63b-254d4e65fbde)
+
 
                                                          
                                                              
