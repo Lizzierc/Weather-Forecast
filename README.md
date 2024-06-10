@@ -18,6 +18,8 @@ The interface has a basic design that minimizes clutter and disruptions, making 
  With safeguards in place to protect data and privacy, security is given first attention. Sensitive data, such as personal information and login credentials, is protected via encryption. To maintain compliance with data protection standards and mitigate potential vulnerabilities, regular security adult and update procedures are carried out.
 
 
+![image](https://github.com/Lizzierc/Weather-Forecast/assets/164861140/9c7da5f7-fb54-4d42-9b3f-6e6659b006c3)
+
                                                          
                                                              
 ![image](https://github.com/Lizzierc/Weather-Forecast/assets/164861140/9c7da258-5cd4-4ecc-a1cb-d5cdf8eaadb7)
