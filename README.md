@@ -24,7 +24,7 @@ The interface has a basic design that minimizes clutter and disruptions, making 
 
 
                                                          
-                                                             
+ SCREENSHOTS OF ERROR HANDLING MESSAGES                                                            
 ![image](https://github.com/Lizzierc/Weather-Forecast/assets/164861140/9c7da258-5cd4-4ecc-a1cb-d5cdf8eaadb7)
 
 
