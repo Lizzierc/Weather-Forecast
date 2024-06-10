@@ -6,7 +6,7 @@ LINK TO MY GITHUB REPOSITORY:https://github.com/Lizzierc/Weather-Forecast/edit/m
 
 
 
-PURPOSE AND EXPLANATION OF THE APP
+PURPOSE AND EXPLANATION OF THE APP:
 The purpose of the app is the different weather conditions.The app's goal is to offer an intuitive user experience for simple navigation and smooth interaction. The application was created with the user in mind, emphasizing ease of use and navigation. User feedback is taken into account to make sure features are easy to use and cater to the intended audience. To find any issues or potential areas for improvement in the app's operation and design, user testing is done.
 
 The interface has a basic design that minimizes clutter and disruptions, making it aesthetically pleasing and uncluttered. Carefully picked typography and colors improve readability and accessibility for users of all skill levels. We are guided through the features and operations of the software with the help of clear labeling and visual cubes.
